@@ -12,7 +12,7 @@
   <img align="center" alt="Suy-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Suy-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
   <img align="center" alt="Suy-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Suy-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
+  <img align="center" alt="Suy-" height="30" width="40" src="">
   <img align="right" alt="Suy-gif" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic91/976e6e20f753fc836d9dfefa8b582aee.gif">
 </div>
   
