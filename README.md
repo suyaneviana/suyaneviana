@@ -23,7 +23,6 @@
  <a href="https://gitlab.com/suyaneviana"><img width="94cm"src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a>
  <a href="https://www.linkedin.com/in/suyane-viana-761a89218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="mailto:suyaneviana@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
- <a ref="https://visitor-badge.glitch.me/badge?page_id=suyaneviana.visitor-badge"><img width="109cm" src="https://visitor-badge.glitch.me/badge?page_id=suyaneviana.visitor-badge&left_color=hotpink&right_color=black&left_text=Visitas"_blank"></a>
  
  
   ![Snake animation](https://github.com/suyaneviana/suyaneviana/blob/output/github-contribution-grid-snake.svg)
